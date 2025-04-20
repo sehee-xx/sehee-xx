@@ -31,7 +31,7 @@
 > 반려동물 콘텐츠 기반 플랫폼 회사에서 웹 프론트엔드 개발자로 근무 </br>
 > IT프로덕트팀 소속, 툴즈 서비스 개발 참여  
 
-- **Responsibilities:**  [![툴즈 메인](https://img.shields.io/badge/Visit-비마이펫툴즈-blue?style=flat-square)](https://tools.mypetlife.co.kr/)&nbsp;[![임시보호](https://img.shields.io/badge/Visit-임시보호서비스-ff69b4?style=flat-square)](https://tools.mypetlife.co.kr/foster)&nbsp;[![TY-Play](https://img.shields.io/badge/Visit-TY--Play-8A2BE2?style=flat-square)](https://www.ty-play.com/)&nbsp;
+- **Responsibilities:**  [![툴즈 메인](https://img.shields.io/badge/Visit-비마이펫툴즈-blue?style=flat-square)](https://tools.mypetlife.co.kr/)&nbsp;[![임시보호](https://img.shields.io/badge/Visit-임시보호서비스-ff69b4?style=flat-square)](https://tools.mypetlife.co.kr/foster)
 
 - **Tech Stack:**  
 ![React](https://skillicons.dev/icons?i=react) &nbsp; ![Next.js](https://skillicons.dev/icons?i=nextjs) &nbsp; ![TypeScript](https://skillicons.dev/icons?i=ts) &nbsp; ![JavaScript](https://skillicons.dev/icons?i=js) &nbsp; ![styled-components](https://skillicons.dev/icons?i=styledcomponents) &nbsp; ![Git](https://skillicons.dev/icons?i=git) &nbsp; ![Figma](https://skillicons.dev/icons?i=figma) &nbsp; ![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white)
