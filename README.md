@@ -51,6 +51,7 @@
 
 ### Reach Me ✨
 <a href="https://github.com/sehee-xx"><img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp;
+<a href = "https://northern-flag-0ab.notion.site/85c04ff2b63c47a4a186686f98a0cfed?v=68af226df0904dcba52fa9c1e4428d77
+"> <img alt="Notion" src ="https://img.shields.io/badge/Notion-FFC0CB.svg?&style=for-the-badge"/> </a>&nbsp;
 <a href = "https://velog.io/sehee-xx/posts"> <img alt="Velog" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge"/> </a>&nbsp;
 <img alt="Gmail" src="https://img.shields.io/badge/didtpgml0627@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
-
