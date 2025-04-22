@@ -9,8 +9,8 @@
 
 
 ### Interests ✨
-- Web Front-End (React, NextJS)
-- Web Back-End (NodeJs, NestJs)
+- Web Front-End (React, Next.js)
+- Web Back-End (Node.js, Nest.js)
 - APIs (REST API, GraphQL)
 
 <hr style="border: 0; height: 1px; background: #e0e0e0; margin: 32px 0;" />
