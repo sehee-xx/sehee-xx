@@ -1,7 +1,7 @@
 # Sehee Yang 👩‍💻
 
 ### My Skills ✨
-[![My Skills](https://skillicons.dev/icons?i=react,next,flutter,ts,js,java,html,css,styledcomponents,emotion)](https://skillicons.dev)</br>
+[![My Skills](https://skillicons.dev/icons?i=react,react-native,next,flutter,ts,js,java,html,css,styledcomponents,emotion)](https://skillicons.dev)</br>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nest,graphql,postman,mysql,git,docker,aws,figma)](https://skillicons.dev)</br>
 [![My Skills](https://skillicons.dev/icons?i=npm,yarn)](https://skillicons.dev)
 
