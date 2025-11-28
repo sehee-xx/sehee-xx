@@ -20,7 +20,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Computer Science Major  
 - CodeCamp - Frontend Bootcamp (2022.05 ~ 2022.08)</br>
 - KAIST Madcamp (2024.06 ~ 2024.07)</br>
-- Samsung Software Academy For Youth (SSAFY) (2025.01 ~)</br>
+- Samsung Software Academy For Youth (SSAFY) (2025.01 ~ 2025.12)</br>
 
 <hr style="border: 0; height: 1px; background: #e0e0e0; margin: 32px 0;" />
 
