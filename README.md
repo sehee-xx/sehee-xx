@@ -17,7 +17,7 @@
 
 ### Education ✨
 - Sookmyung Women's University (2020.03 ~ 2025.02)</br>
-&nbsp;&nbsp;&nbsp;&nbsp;Computer Science Major  
+&nbsp;&nbsp;&nbsp;&nbsp;Major: Computer Science   
 - CodeCamp - Frontend Bootcamp (2022.05 ~ 2022.08)</br>
 - KAIST Madcamp (2024.06 ~ 2024.07)</br>
 - Samsung Software Academy For Youth (SSAFY) (2025.01 ~ 2025.12)</br>
